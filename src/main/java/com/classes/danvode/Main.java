@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args){
-        int[] array = {4, 2,6, 9,1,7};
+        int[] array = {4, 2,6, 9,1,7, 8};
         boolean a = true;
         while (a) {
             a = false;
